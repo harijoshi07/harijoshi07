@@ -8,6 +8,9 @@
 
 ![Hey](https://github-readme-stats.vercel.app/api/top-langs?username=harijoshi07&show_icons=true&locale=en&layout=compact&theme=highcontrast)
 
+![](https://komarev.com/ghpvc/?username=harijoshi07)
+
+
 
 
 
