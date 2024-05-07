@@ -1,5 +1,14 @@
 ### Hey am Hari'
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=harijoshi07&theme=highcontrast)](https://git.io/streak-stats)
+
+![Hey](https://github-readme-stats.vercel.app/api/top-langs?username=harijoshi07&show_icons=true&locale=en&layout=compact&theme=highcontrast)
+
+
+![hey](https://github-readme-stats.vercel.app/api?username=harijoshi07&show_icons=true&locale=en&theme=highcontrast)
+
+
+
 <!--
 **harijoshi07/harijoshi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
