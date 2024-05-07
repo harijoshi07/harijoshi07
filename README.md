@@ -1,12 +1,12 @@
-### Hey, I'm Hari!
+### Hey am Hari'
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=harijoshi07&theme=highcontrast)](https://git.io/streak-stats)
 
-<div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harijoshi07&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Top Languages" style="flex: 1; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=harijoshi07&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" style="flex: 1; margin-left: 10px;">
-</div>
 
+![hey](https://github-readme-stats.vercel.app/api?username=harijoshi07&show_icons=true&locale=en&theme=highcontrast)
+
+![Hey](https://github-readme-stats.vercel.app/api/top-langs?username=harijoshi07&show_icons=true&locale=en&layout=compact&theme=highcontrast)
 
 
 
