@@ -1,5 +1,6 @@
 ### Hey am Hari'
 
+![](https://komarev.com/ghpvc/?username=harijoshi07)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=harijoshi07&theme=highcontrast)](https://git.io/streak-stats)
 
@@ -8,7 +9,6 @@
 
 ![Hey](https://github-readme-stats.vercel.app/api/top-langs?username=harijoshi07&show_icons=true&locale=en&layout=compact&theme=highcontrast)
 
-![](https://komarev.com/ghpvc/?username=harijoshi07)
 
 
 
