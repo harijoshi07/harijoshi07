@@ -7,7 +7,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=harijoshi07&show_icons=true&locale=en&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=harijoshi07&show_icons=true&locale=en&layout=compact&theme=highcontrast
+[![Top Langs](https://github-readme-stats-harijoshi.vercel.app/api/top-langs?username=harijoshi07&show_icons=true&locale=en&layout=compact&theme=highcontrast
 )]
 
 
