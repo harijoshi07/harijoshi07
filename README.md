@@ -5,7 +5,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=harijoshi07&theme=highcontrast)](https://git.io/streak-stats)
 
 
-[![Stats]((https://github-readme-stats-seven-phi-44.vercel.app)/api?username=harijoshi07&show_icons=true&locale=en&theme=highcontrast)]
+![Stats](https://github-readme-stats-seven-phi-44.vercel.app/api?username=harijoshi07&show_icons=true&locale=en&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats-seven-phi-44.vercel.app/api/top-langs?username=harijoshi07&show_icons=true&locale=en&layout=compact&theme=highcontrast
 )]
